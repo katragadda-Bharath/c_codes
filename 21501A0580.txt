@@ -1,0 +1,5 @@
+21501A0580
+BATCH-A
+a.https://codeforces.com/contest/1850/problem/A
+b.https://codeforces.com/contest/1850/problem/B
+c.https://codeforces.com/contest/1850/problem/C
